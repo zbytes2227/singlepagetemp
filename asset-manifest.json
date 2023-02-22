@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/singlepagetemp/static/css/main.b3778ce9.css",
+    "main.js": "/singlepagetemp/static/js/main.eb158aee.js",
+    "service-worker.js": "/singlepagetemp/service-worker.js",
+    "index.html": "/singlepagetemp/index.html",
+    "main.b3778ce9.css.map": "/singlepagetemp/static/css/main.b3778ce9.css.map",
+    "main.eb158aee.js.map": "/singlepagetemp/static/js/main.eb158aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3778ce9.css",
+    "static/js/main.eb158aee.js"
+  ]
+}
